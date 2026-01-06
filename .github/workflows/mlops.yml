@@ -74,5 +74,5 @@ jobs:
             # step 9: Deployment simulations
             - name: Deployment simulations
               run: 
-                echo "Model deployed successfully"
+                echo "Model deployed successfully."
                 ls -l models
